@@ -35,9 +35,8 @@
     "react-leaflet-markercluster": "^2.0.0-rc3",
     "react-select": "^3.0.8",
     "react-yandex-maps": "^4.2.0",
-    "xlsx": "^0.15.2"
-  },
-  "devDependencies": {
+    "xlsx": "^0.15.2",
+    
     "@babel/core": "^7.6.0",
     "@babel/plugin-proposal-class-properties": "7.5.5",
     "@babel/plugin-transform-react-constant-elements": "7.5.0",
